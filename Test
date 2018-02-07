@@ -1,2 +1,6 @@
 Test file
+<<<<<<< HEAD
 Modified in path1
+=======
+Modified in path2
+>>>>>>> develop_path2
